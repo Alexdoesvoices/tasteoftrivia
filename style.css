@@ -1,0 +1,28 @@
+body   {
+    background-color:cadetblue
+}
+.siteheader {
+    text-align: center;
+    border: 5px solid;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    width: 250px;
+    background-color: aliceblue;
+
+}
+.subheader {
+   text-align: center;
+   margin: 10px;
+}
+/* background-color: aliceblue;
+    border: .2px solid ;
+    border-radius: 5px;
+    color: black;
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    width: 400px; */
