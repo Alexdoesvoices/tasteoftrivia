@@ -38,17 +38,12 @@ body   {
     /* Evenly space items vertically */
     /* Set the height of the container */
   } 
-  .tbutton {
-    width: 50px;
+  button {
+    background-color: #ccc;
+    margin: 5px;
   }
-/* background-color: aliceblue;
-    border: .2px solid ;
-    border-radius: 5px;
-    color: black;
-    display: block;
-    font-size: 25px;
-    font-weight: bold;
-    margin: auto;
-    text-align: center;
-    text-decoration: none;
-    width: 400px; */
+  nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
